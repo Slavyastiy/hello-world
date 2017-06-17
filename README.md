@@ -1,4 +1,5 @@
 # hello-world
 just another repository
-dfj;
-sdpfksk[
+
+hello
+this is student
